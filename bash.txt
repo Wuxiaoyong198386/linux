@@ -1,0 +1,4 @@
+welcome to xxxx.com
+test
+-rw-r--r--  1 wuxiaoyong  staff  25 Nov 12 16:43 bash.txt
+-rw-r--r--  1 wuxiaoyong  staff  83 Nov 12 16:46 bash.txt

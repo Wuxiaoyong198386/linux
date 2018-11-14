@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f411b28-8ec9-4e10-a082-4a525e6ac987" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.1、常用系统工作命令" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.2、系统状态检测命令" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.3、工作目录切换命令" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.4、文本文件编辑命令" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.5、文件目录管理命令" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.6、打包压缩与搜索命令" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/4.1、 vim文本编辑器" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/4.2、编写shell脚本" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.1、输入输出重定向" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.2、管道命令符" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.3、命令行的通配符" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.4、常用的转义字符" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.5、重要的环境变量" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="476713629">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1、 vim文本编辑器" value="2" />
+          <entry key="1、常用系统工作命令" value="3" />
+          <entry key="1、输入输出重定向" value="1" />
+          <entry key="2、管道命令符" value="1" />
+          <entry key="2、系统状态检测命令" value="2" />
+          <entry key="2、编写shell脚本" value="1" />
+          <entry key="3、命令行的通配符" value="1" />
+          <entry key="3、工作目录切换命令" value="2" />
+          <entry key="4、常用的转义字符" value="1" />
+          <entry key="4、文本文件编辑命令" value="2" />
+          <entry key="5、文件目录管理命令" value="2" />
+          <entry key="5、重要的环境变量" value="1" />
+          <entry key="6、打包压缩与搜索命令" value="2" />
+          <entry key="sh" value="4" />
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="1、 vim文本编辑器" value="542" />
+          <entry key="1、常用系统工作命令" value="725" />
+          <entry key="1、输入输出重定向" value="340" />
+          <entry key="2、管道命令符" value="28" />
+          <entry key="2、系统状态检测命令" value="301" />
+          <entry key="2、编写shell脚本" value="1290" />
+          <entry key="3、命令行的通配符" value="112" />
+          <entry key="3、工作目录切换命令" value="129" />
+          <entry key="4、常用的转义字符" value="164" />
+          <entry key="4、文本文件编辑命令" value="364" />
+          <entry key="5、文件目录管理命令" value="615" />
+          <entry key="5、重要的环境变量" value="560" />
+          <entry key="6、打包压缩与搜索命令" value="764" />
+          <entry key="sh" value="413" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="6351" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.go.postfix.template.usages.trigger" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.1、常用系统工作命令">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="856">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.2、系统状态检测命令">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.3、工作目录切换命令">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.4、文本文件编辑命令">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.5、文件目录管理命令">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8">
+              <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.6、打包压缩与搜索命令">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1215">
+              <caret line="45" column="83" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/4.2、编写shell脚本">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="78" column="31" lean-forward="true" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/adduser.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/checkhost.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/firstshell.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.2、系统状态检测命令" />
+        <option value="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.3、工作目录切换命令" />
+        <option value="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.4、文本文件编辑命令" />
+        <option value="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.5、文件目录管理命令" />
+        <option value="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.6、打包压缩与搜索命令" />
+        <option value="$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.1、输入输出重定向" />
+        <option value="$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.3、命令行的通配符" />
+        <option value="$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.4、常用的转义字符" />
+        <option value="$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.5、重要的环境变量" />
+        <option value="$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.2、管道命令符" />
+        <option value="$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/4.1、 vim文本编辑器" />
+        <option value="$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.1、常用系统工作命令" />
+        <option value="$PROJECT_DIR$/firstshell.sh" />
+        <option value="$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/if.sh" />
+        <option value="$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/4.2、编写shell脚本" />
+        <option value="$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/adduser.sh" />
+        <option value="$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/ipadds.txt" />
+        <option value="$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/checkhost.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="817" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="linux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+              <item name="第一章：新手必须掌握的Linux命令" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+              <item name="第三章：vim编辑器与shell命令脚本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+              <item name="第二章：管道符、重定向与环境变量" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="817" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.39310345" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32275862" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.1、输入输出重定向">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.2、管道命令符">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bash.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.3、命令行的通配符">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.4、常用的转义字符">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章：管道符、重定向与环境变量/2.5、重要的环境变量">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/msg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/4.1、 vim文本编辑器">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/if.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/users.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/ipadds.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/firstshell.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/checkhost.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/4.2、编写shell脚本">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="78" column="31" lean-forward="true" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章：vim编辑器与shell命令脚本/adduser.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.1、常用系统工作命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="856">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.2、系统状态检测命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.3、工作目录切换命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.4、文本文件编辑命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.6、打包压缩与搜索命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" column="83" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章：新手必须掌握的Linux命令/1.5、文件目录管理命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
